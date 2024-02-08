@@ -3,5 +3,3 @@ Easily connect your remote server without password authentication using windows 
 
 
 note: make sure you can connect to the remote server using password authentication
-
-Setting Up SSH Passwordless on windows client 
